@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=clement-machtelinckx&color=blue)
+
 <h1 align="center">Hi 👋, I'm Clement Machtelinckx</h1>
 <h3 align="center">A passionate developer from France</h3>
 
